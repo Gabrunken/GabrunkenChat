@@ -1,0 +1,1 @@
+gcc *.c -lws2_32 -o ..\chat
